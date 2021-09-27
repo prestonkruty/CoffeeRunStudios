@@ -4,7 +4,7 @@ import NavBar from './Modules/NavBar';
 function App() {
   return (
     <div> 
-      <NavBar list={['Home', 'page1', 'page2']} />
+      <NavBar list={['page2', 'page1', 'Home']} />
     </div>
   );
 }
