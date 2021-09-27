@@ -10,7 +10,7 @@
 #listItem {
     display: inline-block; 
     padding: 20px 10px;
-    color: white;
+    color: rgba(255, 255, 255, 0.712);
 }
 
 #listItem:hover {
